@@ -13,7 +13,12 @@ This is a clone of the **MM Enterprise** website built using **HTML**, **CSS**, 
 
   📸 Screenshots
 
-  ![](https://github.com/SyedAkberHasan/Netflix_DataAnalysis_sql_project/blob/main/Screenshot(1).png)
+  
+![image alt](https://github.com/SyedAkberHasan/MMEnterprise_Website_project/blob/main/Screenshot%20(1).png?raw=true)
+![image alt](https://github.com/SyedAkberHasan/MMEnterprise_Website_project/blob/main/Screenshot%20(2).png?raw=true)
+![image alt](https://github.com/SyedAkberHasan/MMEnterprise_Website_project/blob/main/Screenshot%20(3).png?raw=true)
+![image alt](https://github.com/SyedAkberHasan/MMEnterprise_Website_project/blob/main/Screenshot%20(4).png?raw=true)
+![image alt](https://github.com/SyedAkberHasan/MMEnterprise_Website_project/blob/main/Screenshot%20(5).png?raw=true)
 
   
 
