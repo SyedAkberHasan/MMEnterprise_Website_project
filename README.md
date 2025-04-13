@@ -23,7 +23,7 @@ This is a clone of the **MM Enterprise** website built using **HTML**, **CSS**, 
   
 
 ✨ Credits
-Cloned by Your Syed Akber Hasan
+Cloned by Syed Akber Hasan
 
 Original inspiration: MM Enterprise Website
 
