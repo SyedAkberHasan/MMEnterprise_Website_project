@@ -13,6 +13,8 @@ This is a clone of the **MM Enterprise** website built using **HTML**, **CSS**, 
 
   📸 Screenshots
 
+  ![](https://github.com/SyedAkberHasan/Netflix_DataAnalysis_sql_project/blob/main/Screenshot(1).png)
+
   
 
 ✨ Credits
